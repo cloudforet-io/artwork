@@ -2,4 +2,4 @@
 
 Cloudforet Logo
 
-![Cloudforet](./Cloudforet_logo--primary-horizontal.png)
+![Cloudforet](./logo/Cloudforet_logo--primary-horizontal.png)
