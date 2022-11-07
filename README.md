@@ -60,7 +60,7 @@ If you want to donate a character, send an email to the address below, including
 * [admin@cloudforet.io](mailto:admin@cloudforet.io)
 
 #### Character License
-Wonny and Wonny’s Friends(Jelly Otos) are licensed under the Creative Commons Attribution License(CC BY 4.0). You can remix, transform, and build upon the materials for any purpose, even commercially. If you use the materials, including the text “cloudforet.io” to provide attribution. If possible, Apply a link to ‘https://cloudforet.io’.
+Wonny and Wonny’s Friends(Jelly Otos) are licensed under the Creative Commons Attribution License(CC BY 4.0). You can remix, transform, and build upon the materials for any purpose, even commercially. If you use the materials, including the text “cloudforet.io” to provide attribution. If possible, Apply a link to https://cloudforet.io
 
 
 ---
