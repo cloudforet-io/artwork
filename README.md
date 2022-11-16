@@ -49,7 +49,7 @@ Designed by [dsict](https://github.com/dsict)
 
 Designed By [daesupkim](https://github.com/daesupkim)
 
-![wonny-and-friends](illustrations/wonny-and-friends-01.png)
+![wonny-and-friends](illustrations/wonny-and-friends.png)
 
 #### Character Donation 
 
