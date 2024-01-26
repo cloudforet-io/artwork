@@ -6,5 +6,4 @@ An NFT collections of SpaceONE(Now Cloudforet)
 
 # Origin
 
-![SpaceONE Universe](https://opensea.io/collection/spaceone-universe)
-
+[SpaceONE Universe](https://opensea.io/collection/spaceone-universe)
